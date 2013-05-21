@@ -1,0 +1,249 @@
+#desc p {
+    line-height: 2em;
+}
+
+#nano-formica {
+    width: 900px;
+    margin-left: 3em;
+}
+
+#nano-capello {
+    width: 1100px;
+    padding: 200px;
+}
+
+#nano-capello h2 {
+    margin-bottom: .6em;
+    text-shadow: 0 0 4px rgba(0, 0, 0, .4);
+}
+
+#nano-capello img {
+    box-shadow: 1px 1px 14px black;
+}
+
+#nano-capello p {
+    position: relative;
+    float: right;
+    top: 3.5em;
+    margin-right: 7em;
+}
+
+#nano-batterio {
+    margin-left: .2em;
+}
+
+#nano {
+    padding-bottom: 29em;
+    padding-left: 33em;
+}
+
+#nano h2 {
+    margin-top: 400px;
+}
+
+#obj p {
+    margin: 1em 1em;
+}
+
+#leggi-titolo h1 {
+    width: 1300px;
+    font-weight: 700;
+    font-size: 90px;
+    line-height: 1.3em;
+}
+
+#leggi {
+    width: 1500px;
+}
+
+#nano-chitarra {
+    margin-left: -2em;
+}
+
+#nano-chitarra h2 {
+    margin-top: 0;
+}
+
+#ultra-dry {
+    width: 1200px;
+    margin-left: 3em;
+}
+
+#ultra-dry h2 {
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+#ultra-dry iframe {
+    margin-left: 12em;
+}
+
+#filtro {
+    width: 1200px;
+}
+
+#filtro h2 {
+    margin-top: -250px;
+}
+
+#filtro img {
+    position: absolute;
+    top: -90px;
+    left: -150px;
+    width: 60%;
+}
+
+#filtro div {
+    position: relative;
+    float: right;
+    text-align: left;
+    margin-left: 450px;
+}
+
+#nano-network {
+    width: 1100px;
+}
+
+#nano-network h2 {
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+
+#nano-network img {
+    box-shadow: 0 0 5px rgba(0, 0, 0, .7);
+    margin-left: 100px;
+}
+
+#costruzione {
+    width: 1300px;
+    padding-left: 12em;
+}
+
+#costruzione ul {
+    margin-top: 5em;
+    margin-left: 4em;
+}
+
+#costruzione ul li p {
+    margin-top: -1em;
+}
+
+#costruzione ul li p.first {
+    width: 5.2em;
+}
+
+#medicina h2 {
+    margin-top: 6em;
+    margin-left: -1em;
+}
+
+#medicina .dropmenu-wrapper {
+    position: relative;
+    float: right;
+    top: -12em;
+    left: 3em;
+    width: 25em;
+    padding-left: 1em;
+    border-left: 5px solid #ddd;
+}
+
+#medicina .dropmenu-wrapper li {
+    width: 800px;
+}
+
+#medicina .list {
+    margin-left: 100px;
+    margin-top: -20px;
+}
+
+#medicina p.first {
+    margin: 1em;
+}
+
+#medicina .hidden .list {
+    margin-bottom: 70px;
+}
+
+#medicina .hidden .list li {
+    font-size: 40px;
+}
+
+#medicina .hidden .list li p {
+    font-size: 28px;
+    text-align: left;
+    line-height: 70px;
+    margin-left: 70px;
+    margin-bottom: -40px;
+    box-shadow: 1px 1px 5px rgb(177, 153, 153);
+}
+
+#computers h2 {
+    margin-top: -3em;
+    margin-bottom: 1em;
+}
+
+#computers ol {
+    margin-left: -1.3em;
+    height: 200px;
+}
+
+#computers li {
+    width: 900px;
+    font-size: 2em;
+    line-height: 1em;
+    margin-top: .5em;
+    margin-bottom: .5em;
+}
+
+#grafene h1 {
+    z-index: 0;
+    position: absolute;
+    margin-top: .89em;
+    margin-left: -1em;
+}
+
+#grafene img {
+    z-index: -1;
+    position: relative;
+    float: right;
+    margin-right: -10em;
+}
+
+#grafene-proprieta {
+    width: 1500px;
+}
+
+#grafene-proprieta.present ul {
+    margin-left: 400px;
+}
+
+#grafene-proprieta li {
+    font-size: 50px;
+}
+
+#grafene-proprieta li p {
+    font-size: 33px;
+}
+
+#final {
+    z-index: -99999;
+    text-align: center;
+    padding-top: 150px;
+}
+
+#final p {
+    opacity: 0;
+    font-size: 40px;
+    text-align: center;
+    transition: all 400ms linear;
+}
+
+#final.present {
+    z-index: auto;
+    background: rgba(255, 255, 255, .3);
+}
+
+#final.present p {
+    opacity: 1;
+    font-style: italic;
+}

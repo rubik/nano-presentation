@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/Ubuntu-Regular.eot');
+  src: url('fonts/Ubuntu-Regular.woff') format('woff'), url('fonts/Ubuntu-Regular.ttf') format('truetype'), url('fonts/Ubuntu-Regular.svg') format('svg');
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 500;
+  src: url('fonts/Ubuntu-Medium.eot');
+  src: url('fonts/Ubuntu-Medium.woff') format('woff'), url('fonts/Ubuntu-Medium.ttf') format('truetype'), url('fonts/Ubuntu-Medium.svg') format('svg');
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 700;
+  src: url('fonts/Ubuntu-Bold.eot');
+  src: url('fonts/Ubuntu-Bold.woff') format('woff'), url('fonts/Ubuntu-Bold.ttf') format('truetype'), url('fonts/Ubuntu-Bold.svg') format('svg');
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 400;
+  src: url('fonts/Ubuntu-Italic.eot');
+  src: url('fonts/Ubuntu-Italic.woff') format('woff'), url('fonts/Ubuntu-Italic.ttf') format('truetype'), url('fonts/Ubuntu-Italic.svg') format('svg');
+}
